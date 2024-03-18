@@ -1,0 +1,18 @@
+** lsce
+Display supported CPU features for Unix-like systems.
+
+** Usage
+Run =lsce --help= for more information.
+
+Running =lsce= will print a very similar output given below.
+#+begin_export text
+Vendor: GenuineIntel
+Name: Intel(R) Xeon(R) CPU X5680 @ 3.33GHz
+Model: 12
+Extended Model: 44
+Model Synth: 12
+Family: 1
+Extended Family: 1
+Family Synth: 1
+Features: sse sse2 mmx ...
+#+end_export
